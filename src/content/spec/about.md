@@ -3,3 +3,4 @@
 
 > ### Sources used in this site
 > - [fuwari](https://github.com/saicaca/fuwari) by [saikaka](https://github.com/saicaca)
+::github{repo="saicaca/fuwari"}
