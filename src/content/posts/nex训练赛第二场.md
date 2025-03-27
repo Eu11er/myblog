@@ -1,7 +1,7 @@
 ---
 title: nex训练赛第二场
 published: 2025-03-27
-description: ''
+description: '这周的题目也挺友好的'
 image: ''
 tags: [RSA,python.random,coopersmith,DH]
 category: 'ctf'

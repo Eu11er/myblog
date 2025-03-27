@@ -1,7 +1,7 @@
 ---
 title: nex训练赛第一场
 published: 2025-03-26
-description: ''
+description: '在nex的第一场训练赛'
 image: ''
 tags: [wireshark,RSA,LCG,sagemath,ECC]
 category: 'ctf'
