@@ -1,5 +1,5 @@
 ---
-title: nex训练赛第二场
+title: nex12.20-12.22wp
 published: 2025-03-27
 description: '这周的题目也挺友好的'
 image: ''

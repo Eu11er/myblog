@@ -1,5 +1,5 @@
 ---
-title: nex训练赛第一场
+title: nex12.6-12.8wp
 published: 2025-03-26
 description: '在nex的第一场训练赛'
 image: ''
